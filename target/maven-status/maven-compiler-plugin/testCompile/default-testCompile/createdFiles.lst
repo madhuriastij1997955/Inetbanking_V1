@@ -1,0 +1,9 @@
+com\ibanking\PageObjects\LoginPage.class
+com\ibanking\Utilitys\ReportGen.class
+com\ibanking\TestCases\Tc_ibanking_003.class
+com\ibanking\TestCases\Tc_Ibanking_001.class
+com\ibanking\TestCases\BaseClass.class
+com\ibanking\TestCases\Tc_ibanking_002.class
+com\ibanking\Utilitys\ReadConfig.class
+com\ibanking\Utilitys\TestData.class
+com\ibanking\PageObjects\AddNewCustmer.class

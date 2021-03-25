@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31633" started-at="2021-03-24T16:55:04Z" finished-at="2021-03-24T16:55:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31633" started-at="2021-03-24T16:55:04Z" finished-at="2021-03-24T16:55:36Z">
+      <class name="com.ibanking.TestCases.Tc_ibanking_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ibanking.TestCases.Tc_ibanking_003@52e677af]" name="setUp" is-config="true" duration-ms="13126" started-at="2021-03-24T16:55:04Z" finished-at="2021-03-24T16:55:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:com.ibanking.TestCases.Tc_ibanking_003@52e677af]" name="addCustomer" duration-ms="17184" started-at="2021-03-24T16:55:17Z" finished-at="2021-03-24T16:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ibanking.TestCases.Tc_ibanking_003@52e677af]" name="tearDown" is-config="true" duration-ms="1016" started-at="2021-03-24T16:55:35Z" finished-at="2021-03-24T16:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ibanking.TestCases.Tc_ibanking_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
